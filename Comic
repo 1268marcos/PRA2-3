@@ -83,3 +83,5 @@ public class Comic{
     private String mPublishingCompany;
 
 }
+
+//muito bem
